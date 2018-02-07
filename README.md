@@ -2,11 +2,6 @@
 
 Muokatut SCAD-filsut soveltumaan extruusioversioon.
 
-This repository contains SCAD files and STLs of the printed parts.
-
-
-
-
 **Links**
 
  * Prusa Research website : http://prusa3d.com
