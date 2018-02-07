@@ -1,10 +1,11 @@
-# Original Prusa i3 MK2
+# Geetek rebuild
 
-
-Original Prusa i3 MK2 is a 3D printer project maintained by PRUSA RESEARCH.
-Originates in RepRap project.
+Muokatut SCAD-filsut soveltumaan extruusioversioon.
 
 This repository contains SCAD files and STLs of the printed parts.
+
+
+
 
 **Links**
 
